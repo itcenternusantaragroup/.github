@@ -9,3 +9,5 @@ IT.Nusantara Group is an close source project developed by the JavaScript commun
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+![Alt](https://repobeats.axiom.co/api/embed/936204ae9978c3f6b72eb08ce07534ab97bbd6d2.svg "Repobeats analytics image")
